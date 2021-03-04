@@ -1,3 +1,8 @@
 1 коммит branch2
 2 коммит branch2
 3 коммит branch2
+
+1 коммит branch1
+2 коммит branch1
+3 коммит branch1
+
